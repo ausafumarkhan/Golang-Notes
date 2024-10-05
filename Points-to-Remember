@@ -1,0 +1,6 @@
+The Go Programming Language Specification
+
+UTF-8 (upto 4 byte i.e. 32 bits) is a convenient way to store Unicode character. It stores unicode as binary.
+
+A string literal represents a string constant obtained from concatenating a sequence of characters. There are two forms: raw string literals and interpreted string literals. 
+(https://go.dev/ref/spec#String_literals)
